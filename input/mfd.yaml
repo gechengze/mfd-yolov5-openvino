@@ -1,0 +1,5 @@
+names: ["with_mask", "without_mask", "mask_weared_incorrect"]
+nc: 3
+path: /home/gechengze/deep-learning/fdu/mfd-yolov5-openvino/input
+train: /home/gechengze/deep-learning/fdu/mfd-yolov5-openvino/input/train.txt
+val: /home/gechengze/deep-learning/fdu/mfd-yolov5-openvino/input/val.txt
